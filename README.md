@@ -17,6 +17,8 @@
 <!--Les liens du flux RSS -->
 ### Le programme
 
+- [Activités du 2 au 8 septembre 2024](#du-2-au-8-septembre-2024)
+![](https://img.shields.io/badge/Pique--nique-8db600)
 - [Activités du 26 au 1 septembre 2024](#du-26-au-1-septembre-2024)
 ![](https://img.shields.io/badge/Pique--nique-8db600)
 ![](https://img.shields.io/badge/Promenade-4a90e2)
@@ -63,6 +65,14 @@
 ---
 
 <!--Les ancres des liens -->
+
+### Du 2 au 8 septembre 2024
+
+#### 02/09/2024
+
+- ![](https://img.shields.io/badge/Pique--nique-8db600)
+  - Un pique-nique est prévu de 11h30 à 15h au Jardin Darralde.
+  - Un pique-nique est prévu de 18h30 à 22h au Jardin Darralde.
 
 ### Du 26 au 1 septembre 2024
 
