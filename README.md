@@ -6,7 +6,7 @@
 <!--Titre principal -->
 ## Bienvenue sur le journal des activités d'Eaux-Bonnes 👋
 
-### Activités
+### Les activités
 
 ![](https://img.shields.io/badge/Pique--nique-8db600)
 ![](https://img.shields.io/badge/Promenade-4a90e2)
@@ -14,7 +14,8 @@
 ![](https://img.shields.io/badge/Légendes-6a0dad)
 ![](https://img.shields.io/badge/Musique-ff4500)
 
-### Programme
+<!--Les liens du flux RSS -->
+### Le programme
 
 - [Activités du 26 au 1 septembre 2024](#du-26-au-1-septembre-2024)
 ![](https://img.shields.io/badge/Pique--nique-8db600)
