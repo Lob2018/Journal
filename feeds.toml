@@ -1,0 +1,6 @@
+[feed]
+title = "Eaux-Bonnes 💦 Les activités"
+url = "https://lob2018.github.io/Journal/"
+entrySelector = "div.container-lg > ul#yl-menu-links li"
+titleSelector = ["a","img"]
+linkSelector = "a"
