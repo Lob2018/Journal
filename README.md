@@ -250,23 +250,23 @@ Fermé dimanche et jours fériés.
 #yl-myBtn {
   display: block; /* Visible by default */
   position: fixed; /* Fixed/sticky position */
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
+  bottom: 1.5rem; /* Place the button at the bottom of the page */
+  right: 2rem; /* Place the button 30px from the right */
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
   background-color: #04AA6D; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 15px; /* Some padding */
-  border-radius: 10px; /* Rounded corners */
+  padding: 1rem; /* Some padding */
+  border-radius: 3rem; /* Rounded corners */
   font-size: 1.3rem; /* Increase font size */
 }
 #yl-myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }
 </style>
-<button onclick="topFunction()" id="yl-myBtn" aria-label="Top" title="Go to top"><span aria-hidden="true">Top</span>
+<button onclick="topFunction()" id="yl-myBtn" aria-label="Top" title="Scroll to top"><svg aria-hidden="true" focusable="false" class="octicon octicon-chevron-up" viewBox="0 0 16 16" width="20" height="20" fill="currentColor" style="display: inline-block; user-select: none; vertical-align: text-bottom; overflow: visible;"><path d="M3.22 10.53a.749.749 0 0 1 0-1.06l4.25-4.25a.749.749 0 0 1 1.06 0l4.25 4.25a.749.749 0 1 1-1.06 1.06L8 6.811 4.28 10.53a.749.749 0 0 1-1.06 0Z"></path></svg>
 </button>
 <script>
 // Vérifier la position après un clic sur une ancre
