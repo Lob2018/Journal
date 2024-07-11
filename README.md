@@ -251,7 +251,7 @@ Fermé dimanche et jours fériés.
   display: block; /* Visible by default */
   position: fixed; /* Fixed/sticky position */
   bottom: 1.5rem; /* Place the button at the bottom of the page */
-  right: 2rem; /* Place the button 30px from the right */
+  right: 2rem; /* Place the button from the right */
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
@@ -260,7 +260,7 @@ Fermé dimanche et jours fériés.
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 1rem; /* Some padding */
   border-radius: 3rem; /* Rounded corners */
-  font-size: 1.3rem; /* Increase font size */
+  font-size: 0; /* Initialize font size */
 }
 #yl-myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
